@@ -1,0 +1,18 @@
+{
+  "name": "swapi-provider",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "SWAPI Web Component",
+  "main": "main.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SWAPI",
+    "web-component",
+    "wc"
+  ],
+  "author": "envm92",
+  "license": "MIT"
+}
