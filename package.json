@@ -1,7 +1,11 @@
 {
   "name": "swapi-provider",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/envm92/swapi-provider.git"
+  },  
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SWAPI Web Component",
   "main": "main.js",
   "module": "main.js",

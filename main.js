@@ -1,6 +1,6 @@
 /**
      * Attributes
-     *  search: number (optionar)
+     *  search: number (optiona;)
      *  format-wookiee: boolean (optional)
      *  resourse: string [ films| people | planets | species | starships | vehicles ] (optional)
      *  id-resourse: number (optional)
