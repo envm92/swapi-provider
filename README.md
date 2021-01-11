@@ -1,3 +1,6 @@
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
+
+
 # Project Name
 
 SWAPI Provider Web Component
@@ -12,6 +15,20 @@ SWAPI Provider Web Component
 
 ```
    <swapi-provider id="provider" resourse="vehicles" id-resourse="5"></swapi-provider>
+```
+
+<!--
+```
+<custom-element-demo>
+  <template>
+    <link rel="import" href="swapi-provider/main.js">
+    <next-code-block></next-code-block>
+  </template>
+</custom-element-demo>
+```
+-->
+```html
+<swapi-provider id="provider" resourse="vehicles" id-resourse="5"></swapi-provider>
 ```
 
 This is a web component that provide the api response in a web component format
